@@ -1,0 +1,2 @@
+Joskus <Profession001> kirjoittavat hassusti . Varskin kun <FirstName001> on potilaana ja määrää <MedicineName001> .
+<FirstName002> asuu kotonansa yksin . Oli kaatunut <TimeSpan001> . Naapuri löysi klo <Time001> aikaan . Turvotusta <BodySide001> <BodyPart001> .
