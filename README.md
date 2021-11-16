@@ -6,5 +6,7 @@ Python3 implementation of a custom NER analyzer script.
 
 [juhosa](https://github.com/juhosa)
 
+[snaguf](https://github.com/snaguf)
+
 ## License
 MIT
